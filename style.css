@@ -1,0 +1,19 @@
+.main_container{
+    padding: 1rem;
+    margin: 1rem;
+    width: 80%;
+}
+
+.content_container{
+    padding: 1rem;
+    margin: 1rem;
+    width: 80%;
+}
+
+.img_container{
+    max-width:80%;
+}
+
+#img_format{
+    max-width:80%;
+}
